@@ -7,7 +7,6 @@ Refer to the following markdown file for the respective sections of the class:
 - [Pre-Class](./pre-class.md)
 - [Lesson](./lesson.md)
 - [Assignment](./assignment.md)
-- [Quiz](./quiz.md)
 - [Reference](./reference.md)
 
 ## Lesson Objectives
